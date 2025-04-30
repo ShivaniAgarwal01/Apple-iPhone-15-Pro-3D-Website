@@ -23,4 +23,6 @@ To view the project locally:
 
 ```bash
 git clone https://github.com/your-username/Apple-iPhone-15-Pro-3D-Website.git
+cd .\Apple-iPhone-15-Pro-3D-Website\
+npm i
 npm run dev
